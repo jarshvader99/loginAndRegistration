@@ -1,0 +1,13 @@
+com/jshdevco/login/repository/RoleRepository.class
+com/jshdevco/login/service/SecurityServiceImpl.class
+com/jshdevco/login/repository/UserRepository.class
+com/jshdevco/login/service/UserDetailsServiceImpl.class
+com/jshdevco/login/service/UserServiceImpl.class
+com/jshdevco/login/service/UserService.class
+com/jshdevco/login/LoginApplication.class
+com/jshdevco/login/model/Role.class
+com/jshdevco/login/web/UserController.class
+com/jshdevco/login/validator/UserValidator.class
+com/jshdevco/login/service/SecurityService.class
+com/jshdevco/login/WebSecurityConfig.class
+com/jshdevco/login/model/User.class
